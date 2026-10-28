@@ -1,2 +1,19 @@
-# agent-learning-journey
-A hands-on learning journey in AI Agent development, covering Python, LLM APIs, tool calling, RAG, agent workflows, evaluation, and practical projects.
+# Agent Learning Journey
+
+从计算机专业基础出发，面向粤港澳地区的 Agent / 大模型应用开发实习，逐步完成基础学习、项目、评测和求职准备。这个仓库记录真实过程：练习、设计、实验数据、问题和复盘，不把教程复现或尚未完成的成果写成项目经历。
+
+## 从这里开始
+
+1. 阅读 [学习路线](docs/roadmap.md)，了解阶段目标和验收标准。
+2. 按 [第一周任务](docs/week-01.md) 开始，每完成一项记录实际结果。
+3. 课程与开源参考见 [资源清单](docs/resources.md)；主项目设计见 [项目计划](projects/document-agent.md)。
+4. 用 [学习日志模板](journal/template.md) 和 [岗位记录模板](docs/job-tracker.md) 持续更新。
+
+## 目录
+
+- `docs/`：路线、资源、任务和岗位记录。
+- `exercises/`：自己完成的练习和说明。
+- `projects/`：项目需求、实现和评估。
+- `journal/`：按日期记录做了什么、证据、问题和下一步。
+
+学习计划按 2027 年 2 月开始投递、每周约 15–20 小时暂定；以本人实际时间、毕业日期和岗位开放时间调整。任何示例数据和数字都不是已取得的成绩。不要提交 API 密钥、个人简历中的敏感信息或未经授权的数据。
